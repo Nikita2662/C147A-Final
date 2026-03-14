@@ -1,6 +1,5 @@
 # C147/247 Final Project
-### Winter 2026 
-
+### Instructions for viewing our code:
 Radhika branch: This branch implements several data augmentation methods by modifying the following files: log_spectrogram_expand_all3.yaml, log_spectrogram_expand_gain.yaml, log_spectrogram_expand_band_gain.yaml, log_spectrogram_expand_noise.yaml, tds_conv_ctc.yaml, lightning.py, data.py, transforms.py.
 
 Alex branch: Contains code changes, logs, and config setup for the CNN-Transfomer implementation. Pertinent modifications are in modules.py, lightning.py, and config/base.yaml.
@@ -8,6 +7,8 @@ Alex branch: Contains code changes, logs, and config setup for the CNN-Transfome
 Cnn-lstm branch: Contains code changes, logs, and config setup for the CNN-LSTM implementation. Pertinent modifications are in modules.py, lightning.py, and config/base.yaml.
 
 Cnn-rnn branch: Contains code changes, logs, and config setup for the CNN-RNN implementation. Pertinent modifications are in modules.py, lightning.py, and config/base.yaml.
+
+### Winter 2026 
 
 This course project is built upon the emg2qwerty work from Meta. The first section of this README provides some guidance for working with the repo and contains a running list of FAQs. **Note that the rest of the README is from the original repo and we encourage you to take a look at their work.**
 
